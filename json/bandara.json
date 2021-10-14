@@ -1,0 +1,177 @@
+[
+    {
+        "kode"      : "BTJC",
+        "nama"      : "Sultan Iskandar Muda",
+        "kota"      : "Banda Aceh",
+        "pajak"     : "65000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "KNOC",
+        "nama"      : "Kuala Namu",
+        "kota"      : "Deli Serdang",
+        "pajak"     : "87500",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "PDGC",
+        "nama"      : "Minangkabau International Airport",
+        "kota"      : "Padang",
+        "pajak"     : "43750",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "PKUC",
+        "nama"      : "Sultan Syarif Kasim II",
+        "kota"      : "Pekan Baru",
+        "pajak"     : "76000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "TNJC",
+        "nama"      : "Raja Haji Fisabilillah",
+        "kota"      : "Tanjung Pinang",
+        "pajak"     : "85000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "BTHC",
+        "nama"      : "Hang Nadim",
+        "kota"      : "Batam",
+        "pajak"     : "32000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "PLMC",
+        "nama"      : "Sultan Mahmud Badaruddin II",
+        "kota"      : "Palembang",
+        "pajak"     : "38500",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "HLPC",
+        "nama"      : "Halim Perdana Kusuma",
+        "kota"      : "Jakarta",
+        "pajak"     : "15000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "BDOC",
+        "nama"      : "Husein Sastranegara",
+        "kota"      : "Bandung",
+        "pajak"     : "55000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "SOCC",
+        "nama"      : "Adi Sumarno",
+        "kota"      : "Boyolali",
+        "pajak"     : "54000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "SRGC",
+        "nama"      : "Ahmad Yani",
+        "kota"      : "Semarang",
+        "pajak"     : "65000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "JOGC",
+        "nama"      : "Adi Sutjipto",
+        "kota"      : "Sleman",
+        "pajak"     : "78000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "SUBC",
+        "nama"      : "Juanda",
+        "kota"      : "Sidoarjo",
+        "pajak"     : "42000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "SKHC",
+        "nama"      : "Soekarno Hatta",
+        "kota"      : "Tangerang",
+        "pajak"     : "45000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "SQGC",
+        "nama"      : "Supadio",
+        "kota"      : "Kubu Raya",
+        "pajak"     : "80000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "BDJC",
+        "nama"      : "Syamsudin Noor",
+        "kota"      : "Banjarbaru",
+        "pajak"     : "45000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "BPNC",
+        "nama"      : "Sultan Aji Muhammad Sulaiman Sepinggan",
+        "kota"      : "BPN",
+        "pajak"     : "32000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "TRXC",
+        "nama"      : "Juwata",
+        "kota"      : "Tarakan",
+        "pajak"     : "76000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "MDCC",
+        "nama"      : "Sam Ratulangi",
+        "kota"      : "Manado",
+        "pajak"     : "52000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "UPGC",
+        "nama"      : "Sultan Hasanuddin",
+        "kota"      : "Maros",
+        "pajak"     : "95000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "LOPC",
+        "nama"      : "Lombok Praya",
+        "kota"      : "Lombok Tengah",
+        "pajak"     : "76000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "KOEC",
+        "nama"      : "El Tari",
+        "kota"      : "Kupang",
+        "pajak"     : "50000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "AMQC",
+        "nama"      : "Pattimura",
+        "kota"      : "Ambon",
+        "pajak"     : "30000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "BIKC",
+        "nama"      : "Frans Kaisiepo",
+        "kota"      : "Biak Numfor",
+        "pajak"     : "175000",
+        "kategori"  : "Internasional"
+    },
+    {
+        "kode"      : "MKQC",
+        "nama"      : "Mopah",
+        "kota"      : "Merauke",
+        "pajak"     : "190500",
+        "kategori"  : "Internasional"
+    }
+]
