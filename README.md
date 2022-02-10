@@ -8,6 +8,10 @@ Keuntungan lain yang didapatkan oleh calon penumpang adalah dengan menggunakan w
 
 ## ✨User Interface
 
+## ✨Struktur Database
+![Struktur Database](assets/images/struktur-database.png)
+
+
 ## ✨Fitur
 
 Terdapat banyak fitur yang tersedia di dalam plane dengan macam-macam hak akses user
