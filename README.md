@@ -6,8 +6,6 @@ Plane merupakan situs pemesanan tiket online berbasis web yang dibuat menggunaka
 Dengan melihat situs-situs maskapai yang masih aktif ternyata ada sebuah maskapai belum menggunakan sistem pemesanan tiket pesawat berbasis online. Sistem pemesanan atau pembelian tiket dapat dilakukan melalui telepon, mendatangi agen perjalanan ataupun datang langsung ke loket maskapai. Bagi perusahaan maskapai pemesanan tiket pesawat berbasis online ini merupakan salah satu pemanfaatan media internet dalam melakukan penjualan tiket. Dengan adanya website pemesanan tiket pesawat ini maka para penumpang diberikan kesempatan untuk memperoleh tiket secara online, cukup dengan membuka alamat situs website pemesanan tiket pesawat maka calon penumpang dapat melakukan transaksi pembelian tiket.
 Keuntungan lain yang didapatkan oleh calon penumpang adalah dengan menggunakan website pemesanan tiket pesawat ini calon penumpang dapat mengupdate informasi berupa jadwal penerbangan dan harga tiket yang diberikan oleh pihak maskapai setiap saat.
 
-## ✨User Interface
-
 ## ✨Struktur Database
 ![Struktur Database](assets/images/struktur-database.png)
 
